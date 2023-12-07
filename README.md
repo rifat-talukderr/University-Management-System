@@ -1,9 +1,5 @@
-# University-Management-System
+# University Management System
 This is a Web Development Project using C# and Asp Dot Net MVC framework. The aim is to create a comprehensive system that enables University authorities to perform various administrative tasks efficiently. The system provides a centralized platform for streamlined and organized administration of university-related tasks.
-
-# UniversityManagementSystem-ASP.Net-MVC
-This web application is only for using one semester only of a university. If it will make user happy in a semester, university will then ask you for changing several features so that it can be used for long time. So, just think about the stories and features below (don’t think about the future). Noted that, you are not authorized person for changing any specification. 
-For accessing all the features below, you should make a home page and keep menus/submenus or links accordingly. 
 
 # 1. Save Department 
 
